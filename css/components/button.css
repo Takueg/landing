@@ -1,0 +1,33 @@
+/* Your button CSS file */
+.btn-medium {
+  font-weight: lighter;
+  color: #c6c6c6;
+  border: 1px solid #c6c6c6;
+  padding: 15px 25px;
+  border-radius: 50px;
+}
+
+.btn-medium:hover {
+  color: #999999;
+  border: 1px solid #999999;
+}
+
+.btn-treehouse {
+  font-weight: bold;
+  background-color: #6daedb;
+  color: #173753;
+  padding: 15px 25px;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+
+.btn-treehouse:hover {
+  background-color: #2892d7;
+}
+
+.btn-youtube {
+  color: white;
+  background-color: #cc0000;
+  padding: 12px 25px;
+  border-radius: 2px;
+}
